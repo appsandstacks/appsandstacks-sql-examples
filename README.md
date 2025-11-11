@@ -1,6 +1,6 @@
 # Apps & Stacks SQL Examples
 
-This repository contains **SQL database schemas**, **seed data**, and **DBML diagrams** featured on [Apps & Stacks Blog](https://appsandstacks.com).
+This repository contains **SQL database schemas**, **seed data**, and **queries** featured on [Apps & Stacks Blog](https://appsandstacks.com).
 
 Our goal is to help developers **learn SQL through practical, project-based examples** — from designing schemas to writing real-world queries.
 
