@@ -27,6 +27,9 @@ The **Task Manager App** example demonstrates:
 | `task_manager_schema.sql` | MySQL DDL script to create the schema |
 | `task_manager_seed.sql` | Sample data inserts for testing |
 
+### ER Diagram
+ Visualize in DrawSQL → https://drawsql.app/appsandstacks/diagrams/task-manager
+
 ### Quick Setup
 ```bash
 # Create the database
