@@ -1,6 +1,6 @@
 # Apps & Stacks SQL Examples
 
-This repository contains **SQL database schemas**, **seed data**, and **DBML diagrams** featured on [Apps & Stacks Blog](https://appsandstacks.com).
+This repository contains **SQL database schemas**, **seed data**, and **queries** featured on [Apps & Stacks Blog](https://appsandstacks.com).
 
 Our goal is to help developers **learn SQL through practical, project-based examples** — from designing schemas to writing real-world queries.
 
@@ -27,6 +27,9 @@ The **Task Manager App** example demonstrates:
 |------|--------------|
 | `task_manager_schema.sql` | MySQL DDL script to create the schema |
 | `task_manager_seed.sql` | Sample data inserts for testing |
+
+### ER Diagram
+ Visualize in DrawSQL → https://drawsql.app/appsandstacks/diagrams/task-manager
 
 ### Quick Setup
 ```bash
